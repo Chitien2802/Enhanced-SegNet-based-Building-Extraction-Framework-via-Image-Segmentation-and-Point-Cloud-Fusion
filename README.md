@@ -1,0 +1,2 @@
+# Enhanced-SegNet-based-Building-Extraction-Framework-via-Image-Segmentation-and-Point-Cloud-Fusion
+Modified SegNet fusing airborne orthomosaics with photogrammetric point clouds for automatic building extraction. SMRF separates ground/non-ground points; DBSCAN and normal-vector region growing recover complete structures. 2D masks and 3D clusters fuse in image space to refine boundaries. On ISPRS Vaihing precision 0.87→0.94, F1 0.86→0.87, IoU 76%
