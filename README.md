@@ -17,7 +17,7 @@ Requirements
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/ISPRS-Building-Reconstruction.git
+git clone https://github.com/USERNAME/Building-Reconstruction.git
 cd ISPRS-Building-Reconstruction
 conda env create -f environment.yml
 conda activate Pointcloud_Building2026
